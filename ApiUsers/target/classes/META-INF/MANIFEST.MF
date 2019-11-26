@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: padhu
+Build-Jdk: 11.0.5
+Implementation-Title: ApiUsers
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.evolve.api.users
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ApiUsers
+Created-By: Maven Integration for Eclipse
+
